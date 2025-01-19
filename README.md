@@ -14,7 +14,7 @@
 
 ### Links
 
-- Solution URL: [https://riquelme3m.github.io/iJunior-Social-Media-Profile/](https://riquelme3m.github.io/iJunior-Social-Media-Profile/)
+- Solution URL: [https://riquelme3m.github.io/iJunior-Product-Preview-Card-Component/](https://riquelme3m.github.io/iJunior-Product-Preview-Card-Component/)
 
 ### Built With
 
